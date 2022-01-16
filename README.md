@@ -18,12 +18,12 @@ This website includes the following materials for testing and checking our resul
 
 ### 1. Prepare the environment
 
-We trained and tested our code in the following environments with one A6000 GPU:
-ubuntu18.04 
-python3.7
-CUDA 11.1
-cuDNN 8.0.5
-Pytorch 1.8.1
+We trained and tested our code in the following environments with one A6000 GPU:  
+ubuntu18.04   
+python3.7  
+CUDA 11.1  
+cuDNN 8.0.5  
+Pytorch 1.8.1  
 ...
 
 Then install the required packages:
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Preparing Dataset and Model
-We provide trained models [Dropbox](https://www.dropbox.com/sh/vhl6yns2vbgy2we/AAAWnn4P43C7c1PEpKIrp2MBa?dl=0) 
+We provide trained models ([Dropbox](https://www.dropbox.com/sh/vhl6yns2vbgy2we/AAAWnn4P43C7c1PEpKIrp2MBa?dl=0)) 
 on three different datasets: cub, dogs and nabirds.
 You can download model files as well as corresponding datasets, and organize them as follows:
 
