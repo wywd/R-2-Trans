@@ -1,15 +1,12 @@
 # R^2-Trans
 
 This is anonymous project website of the paper 
-"R^2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction" submitted to IJCAI 2022. 
-This website includes the following materials for testing and checking our results reported in our paper:
+"R^2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction" 
+This website includes the following materials for testing and checking our results reported in our paper 
 
 1. The trained model
 2. The test scripts
 3. More visualization of our experiments [TODO]
-
-
-**Once our paper is accepted, we will release all codes of this work.**
 
 ![our framework](./figs/framework.jpg)
 
@@ -65,7 +62,6 @@ python3 test.py --dataset cub
                 --gpu_ids 0
 
 ```
-
 
 
 
