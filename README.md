@@ -1,7 +1,7 @@
 # R^2-Trans
 
 This is anonymous project website of the paper 
-"R^2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction" 
+"[R^2-Trans: Fine-Grained Visual Categorization with Redundancy Reduction](https://arxiv.org/abs/2204.10095)" 
 This website includes the following materials for testing and checking our results reported in our paper 
 
 1. The trained model
