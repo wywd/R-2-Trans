@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 ### 2. Preparing Dataset and Model
-We provide trained models ([Dropbox](https://www.dropbox.com/sh/vhl6yns2vbgy2we/AAAWnn4P43C7c1PEpKIrp2MBa?dl=0)) 
+We provide trained models ([Dropbox](https://www.dropbox.com/scl/fo/2llnbvc1gjq1fxcxmo9kk/h?rlkey=fcpgxcef0j8hdybb1syglwyj7&e=1&st=wkbkh8qf&dl=0)) 
 on three different datasets: cub, dogs and nabirds.
 You can download model files as well as corresponding datasets, and organize them as follows:
 
